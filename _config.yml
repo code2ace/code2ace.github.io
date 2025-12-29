@@ -1,3 +1,4 @@
 title: code2ace
 description: Compiler + optimization notes
 theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
